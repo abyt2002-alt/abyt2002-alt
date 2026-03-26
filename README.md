@@ -98,8 +98,3 @@ The goal is to build **usable systems** that support better pricing, promotions,
 - `commercial-scenario-planner`
 
 ---
-
-## Contact
-
-- LinkedIn: add-your-link-here
-- Email: add-your-email-here
