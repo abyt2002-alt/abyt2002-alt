@@ -85,10 +85,7 @@
 <details>
 <summary><b>How I Work</b></summary>
 
-I focus on applied analytics that teams can operate:
-- clear assumptions  
-- KPI-linked outputs  
-- scalable workflows  
-- deployment-ready decision tools  
+I work on applied analytics problems where the goal is not just to build a model, but to create systems that business teams can actually use.
+
 
 </details>
