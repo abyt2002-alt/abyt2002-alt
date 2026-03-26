@@ -2,6 +2,10 @@
 <h3 align="center">Applied Data Scientist • Pricing • Promo Optimization • Marketing Allocation • Data Products</h3>
 
 <p align="center">
+  Turning commercial data into pricing intelligence, promo strategy, marketing insights, and automated business workflows.
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-Data%20Science-blue" />
   <img src="https://img.shields.io/badge/Streamlit-Apps-red" />
   <img src="https://img.shields.io/badge/FastAPI-APIs-green" />
@@ -9,57 +13,41 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-Optimization-purple" />
 </p>
 
-<p align="center">
-  Turning commercial data into pricing intelligence, promo strategy, marketing insights, and automated business workflows.
-</p>
-
 ---
 
-## About
+<table>
+<tr>
+<td valign="top" width="50%">
 
-I build business-facing analytics and machine learning systems that help teams make better commercial decisions.
-
-My work spans:
+## About Me
+I build business-facing analytics systems for:
 - Pricing optimization
 - Promo optimization
 - Marketing allocation
-- Scenario planning
 - Revenue growth analytics
+- Scenario planning
 - Automated data pipelines
-- Productized analytics tools
 
----
+</td>
+<td valign="top" width="50%">
 
 ## Core Strengths
+- Elasticity modeling
+- Revenue optimization
+- Promo strategy workflows
+- ROI / allocation analytics
+- Scenario simulation
+- Data product development
 
-- Elasticity-driven pricing systems
-- Promo recommendation logic
-- Revenue and scenario optimization
-- Marketing ROI analysis
-- Data pipeline automation
-- Analytics apps and decision tools
+</td>
+</tr>
+</table>
 
----
-
-## Selected Project Themes
-
-### Pricing Optimization
-Systems that estimate demand response, simulate scenarios, and recommend price actions.
-
-### Trade Promotion Optimization
-Workflows that evaluate promo trade-offs and connect analytics to planning decisions.
-
-### Marketing Allocation
-Budget allocation and ROI-oriented decision support systems.
-
-### Automated Data Pipelines
-ETL, APIs, validation layers, and reusable workflows for operational analytics.
-
----
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ## Tech Stack
-
-**Programming & Analytics**
 - Python
 - SQL
 - Pandas
@@ -67,34 +55,45 @@ ETL, APIs, validation layers, and reusable workflows for operational analytics.
 - Scikit-learn
 - XGBoost
 - Statsmodels
-
-**App & Product Layer**
 - Streamlit
 - FastAPI
 - Plotly
 
-**Workflow**
-- Git
-- GitHub
-- API automation
-- Business analytics systems
+</td>
+<td valign="top" width="50%">
 
----
+## What I Build
+- Pricing engines
+- Promo planners
+- Marketing allocation tools
+- Commercial scenario planners
+- Automated ETL / API workflows
+- Decision-support analytics apps
 
-## Philosophy
+</td>
+</tr>
+</table>
 
-I believe analytics should not stop at dashboards or model scores.
+## Featured Projects
 
-The goal is to build **usable systems** that support better pricing, promotions, planning, and business decisions.
+| Project | What it does |
+|---|---|
+| `pricing-optimization-engine` | Recommends pricing actions using demand response and revenue logic |
+| `promo-optimization-planner` | Supports promo planning, trade-offs, and optimization |
+| `marketing-budget-allocation` | Helps allocate budgets using ROI-oriented analytics |
+| `data-pipeline-automation` | Automates cleaning, validation, and analytics workflows |
 
----
+<details>
+<summary><b>More About My Work</b></summary>
 
-## Featured Repositories
+<br>
 
-- `pricing-optimization-engine`
-- `promo-optimization-planner`
-- `marketing-budget-allocation`
-- `data-pipeline-automation`
-- `commercial-scenario-planner`
+I focus on building analytics that are:
+- Business-first
+- Explainable
+- Operational
+- Scalable
+- Decision-oriented
 
----
+My goal is not just to train models, but to build systems that help teams take better commercial decisions.
+
