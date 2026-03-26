@@ -1,26 +1,28 @@
 <h1 align="center">Abhishek Tiwari</h1>
-<h3 align="center">Applied Data Scientist • Pricing • Promo Optimization • Marketing Allocation • Data Products</h3>
 
 <p align="center">
-  Turning commercial data into pricing intelligence, promo strategy, marketing insights, and automated business workflows.
+  <b>Applied Data Scientist</b> • Pricing • Promo Optimization • Marketing Allocation • Data Products
+</p>
+
+<p align="center">
+  Turning commercial data into pricing intelligence, promo strategy, and automated analytics workflows.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Data%20Science-blue" />
+  <img src="https://img.shields.io/badge/SQL-Analytics-orange" />
   <img src="https://img.shields.io/badge/Streamlit-Apps-red" />
   <img src="https://img.shields.io/badge/FastAPI-APIs-green" />
-  <img src="https://img.shields.io/badge/SQL-Analytics-orange" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Optimization-purple" />
 </p>
 
----
+## Snapshot
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-## About Me
-I build business-facing analytics systems for:
+### Focus
 - Pricing optimization
 - Promo optimization
 - Marketing allocation
@@ -29,25 +31,32 @@ I build business-facing analytics systems for:
 - Automated data pipelines
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-## Core Strengths
+### What I Build
+- Pricing engines
+- Promo planners
+- Marketing allocation tools
+- Scenario planning apps
+- ETL / API workflows
+- Business-facing analytics products
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Core Strengths
 - Elasticity modeling
 - Revenue optimization
 - Promo strategy workflows
 - ROI / allocation analytics
-- Scenario simulation
-- Data product development
+- Decision systems
 
 </td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-## Tech Stack
+### Tech Stack
 - Python
 - SQL
 - Pandas
@@ -60,40 +69,35 @@ I build business-facing analytics systems for:
 - Plotly
 
 </td>
-<td valign="top" width="50%">
-
-## What I Build
-- Pricing engines
-- Promo planners
-- Marketing allocation tools
-- Commercial scenario planners
-- Automated ETL / API workflows
-- Decision-support analytics apps
-
-</td>
 </tr>
 </table>
 
-## Featured Projects
+## Featured Repositories
 
-| Project | What it does |
+| Project | Description |
 |---|---|
-| `pricing-optimization-engine` | Recommends pricing actions using demand response and revenue logic |
-| `promo-optimization-planner` | Supports promo planning, trade-offs, and optimization |
-| `marketing-budget-allocation` | Helps allocate budgets using ROI-oriented analytics |
-| `data-pipeline-automation` | Automates cleaning, validation, and analytics workflows |
+| `pricing-optimization-engine` | Pricing decisions using demand response and revenue logic |
+| `promo-optimization-planner` | Promo planning, trade-off analysis, and optimization |
+| `marketing-budget-allocation` | ROI-oriented budget allocation and commercial analytics |
+| `data-pipeline-automation` | Automated cleaning, validation, and analytics workflows |
 
 <details>
 <summary><b>More About My Work</b></summary>
 
 <br>
 
-I focus on building analytics that are:
-- Business-first
-- Explainable
-- Operational
-- Scalable
-- Decision-oriented
+I work on applied analytics problems where the goal is not just to build a model, but to create systems that business teams can actually use.
 
-My goal is not just to train models, but to build systems that help teams take better commercial decisions.
+I focus on:
+- pricing optimization
+- promo optimization
+- marketing allocation
+- revenue growth analytics
+- automated data workflows
+- decision-ready data products
 
+</details>
+
+## Connect
+- LinkedIn: add-your-link-here
+- Email: add-your-email-here
